@@ -1,0 +1,9 @@
+cweather
+
+*.o
+core/*.o
+API/*.o
+JSON/*.o
+JSON/cjson_import/*.o
+
+.DS_Store
